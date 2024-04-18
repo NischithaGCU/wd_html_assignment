@@ -1,0 +1,8 @@
+<html>
+<head>
+       <title>paragraph tag </title>
+<\head>
+<body>
+       Mysore  is the second-most populous city in the southern Indian state of Karnataka.[5] It is the headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Kingdom of Mysore for almost six centuries (1399 to 1947). Known for its heritage structures, palaces (such as the famous Mysore Palace), and its culture, Mysore has been called the "City of Palaces", the "Heritage City",[6] and the "Cultural Capital of Karnataka".[7] It is one of the cleanest cities in India according to the Swachh Survekshan.
+</body>
+</html>
